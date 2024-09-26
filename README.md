@@ -1,8 +1,8 @@
-<h2 align="center">👋 Hello, i'm Slou, welcome to my profile !</h2>
+<h1 align="center">👋 Hello, i'm Slou, welcome to my profile !</h1>
 
 ###
 
-<p align="left">I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br><br>I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br><br>I learned English by myself since I was 7, so it took to me to C1 langage mastery.</p>
+<h3 align="left">🌐 - I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br>💻 - I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br>📖 - I learned English by myself since I was 7, so it took to me to C1 langage mastery.</h3>
 
 ###
 
@@ -21,12 +21,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slouowzee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="discordapp.com/users/852612766288183317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=slouowzee&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -38,16 +32,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/slouowzee/slouowzee/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Ævn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C3%86vn&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=slouowzee&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slouowzee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=rose_pine&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
