@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌐 - I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br><br>💻 - I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br><br>📖 - I learned English by myself since I was 7, so it took to me to C1 langage mastery.</h3>
+<h3 align="left">🌐 - I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br><br>💻 - I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br><br>📖 - I learned English by myself since I was 7, so it took to me to C1 langage mastery. <br><br>👥 - My guy Kzyno, always the best !</h3>
 
 ###
 
