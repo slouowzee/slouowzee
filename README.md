@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌐 - I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br><br>💻 - I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br><br>📖 - I learned English by myself since I was 7, so it took to me to C1 langage mastery. <br><br>👥 - My guy Kzyno, always the best !</h3>
+<h3 align="left">🌐 - I'm a 🇫🇷 students in web developpement, i tried 42 School as you can see in my repos. <br><br>💻 - I learned C from 42, Python from High School, C# from College as well of HTML5 and CSS3.<br><br>📖 - I learned English by myself since I was 7, so it took to me to C1 langage mastery.<br><br>👥 - My guy Kzyno, always the best !</h3>
 
 ###
 
@@ -16,6 +16,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
 </div>
 
 ###
@@ -35,6 +47,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slouowzee&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slouowzee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=rose_pine&hide_border=false&order=2" height="140" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJvcG55djV4MDJ5enVhd3R1bW5qaGwzN3o5aHJ6ajg2ZDA5eXd2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4cCKrEkociVYDJrrr/giphy.webp"  />
 </div>
 
 ###
