@@ -29,11 +29,13 @@
 
 ###
 
-<img align="left" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdicmk2a2h4Zmk4cml2cGtuN3c1aDg1N2preWdwNnduMXFvcGRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4cCKrEkociVYDJrrr/giphy.webp"  />
+<br clear="both">
+
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdicmk2a2h4Zmk4cml2cGtuN3c1aDg1N2preWdwNnduMXFvcGRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4cCKrEkociVYDJrrr/giphy.webp"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="discordapp.com/users/852612766288183317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=slouowzee&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
