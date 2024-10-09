@@ -31,7 +31,9 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdicmk2a2h4Zmk4cml2cGtuN3c1aDg1N2preWdwNnduMXFvcGRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4cCKrEkociVYDJrrr/giphy.webp"  />
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdicmk2a2h4Zmk4cml2cGtuN3c1aDg1N2preWdwNnduMXFvcGRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4cCKrEkociVYDJrrr/giphy.webp"  />
+</div>
 
 ###
 
