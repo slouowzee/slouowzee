@@ -1,8 +1,12 @@
-<h1 align="center">👋 • Hello, i'm Slou, welcome to my Github profile !</h1>
+<h1 align="center">👋 • Hello, i'm Slou, welcome to my Github !</h1>
 
 ###
 
 <h3 align="left">👤 • My name is Gaël “Slou” Pilet, I’m 18 years old, and I’m from France.<br><br>🎓 • I graduated from high school in 2024 and am currently in my first year of studies at Lycée Chevrollier in Angers, where I’m training to become a web developer.<br><br>❤️ • My guy Kzyno is always in my heart.</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
