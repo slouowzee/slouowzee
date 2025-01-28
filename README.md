@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• I'm a French students in web developpement...<br><br>• I accumulated many skills and knowledge in some techs from curiousity and passion...<br><br>• Code, Video Games and Singing are the things that I like the most as a hobbit in my life...<br><br>• I'm making some project, from web to console apps, to desktop apps to mini games, but i'm lacking of time due to my schedule at school...</p>
+<h3 align="left">• I'm a French students in web developpement...<br><br>• I accumulated many skills and knowledge in some techs from curiousity and passion...<br><br>• Code, Video Games and Singing are the things that I like the most as a hobbit in my life...<br><br>• I'm making some project, from web to console apps, to desktop apps to mini games, but i'm lacking of time due to my schedule at school...</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">• I’m familiar with these operating systems: :</p>
+<h3 align="left">• I’m familiar with these operating systems: :</h3>
 
 ###
 
