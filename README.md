@@ -58,18 +58,24 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slouowzee&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=false&order=1&custom_title=Look%20at%20my%20stats%20!" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=slouowzee&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=false&order=1&custom_title=Look%20at%20my%20stats%20!" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slouowzee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=false&order=2&custom_title=Speaking%20a%20lot%20!" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=slouowzee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slouowzee/slouowzee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slouowzee/slouowzee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/slouowzee/slouowzee/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/slouowzee/slouowzee/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31v2yjiat6cdn4sskxacer2aiz6m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v2yjiat6cdn4sskxacer2aiz6m&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
