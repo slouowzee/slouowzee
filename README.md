@@ -5,3 +5,9 @@
 <p align="center">
   <em>Are you wondering why this image is here ? Well idk either.</em>
 </p>
+
+<hr>
+
+<p align="center">
+  I'm a web developer working across the full stack — from front-end to back-end and DevOps — and I enjoy building side projects.
+</p>
