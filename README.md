@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://w.wallhaven.cc/full/k8/wallhaven-k8zlx1.png](https://images6.alphacoders.com/137/thumb-1920-1377296.jpg)" alt="banner" style="width: 100%; border-radius: 10px;" />
+  <img src="https://images6.alphacoders.com/137/thumb-1920-1377296.jpg" alt="banner" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <p align="center">
